@@ -9,33 +9,35 @@ The top level of CAD should only contain file folders. Folders are created for s
 
 ## 3: File Naming
 ### 3.1: Custom
-Custom parts should obey the XXXX-YZZ - NAME file number convention:
-XXX: Module ID
-Y: File type classifier
-ZZ: Part number
-Name: Descriptive file name in Title Capitalization Form.
+Custom parts should obey the XXXX-YZZ - NAME file number convention:  
+XXX: Module ID  
+Y: File type classifier  
+ZZ: Part number  
+Name: Descriptive file name in Title Capitalization Form  
 
-The Module ID is an up-to-four-character code that describes the module the file belongs to. Should be as descriptive as four characters allow. The list of current module classifiers can be seen below:
-LAIK: Top-level assembly
-CHAS: Chassis
-DRIV: Drive train
-LEG: Leg design
-MTST: Motor test rig
-LTST: Leg test rig
+The Module ID is an up-to-four-character code that describes the module the file belongs to. Should be as descriptive as four characters allow. The list of current module classifiers can be seen below:  
+LAIK: Top-level assembly  
+CHAS: Chassis  
+DRIV: Drive train  
+LEG: Leg design  
+MTST: Motor test rig  
+LTST: Leg test rig  
+
 Please maintain this list as the project scope evolves.
 
-The file type classifiers are as follows:
-0: Manufacturing file formats (STL, DXF, GCODE, etc.)
-1: Drawings
-2: Individual parts
-3:
-4: Solidworks FEA Simulation Files
-5:
-6: Weldments
-7: Piping, tubing, wiring, related
-8: 
-9: Top-level assemblies. Typically no more than one (plus configurations) per project.
-Please update this list as the scale of the project evolves.
+The file type classifiers are as follows:  
+0: Manufacturing file formats (STL, DXF, GCODE, etc.)  
+1: Drawings  
+2: Individual parts  
+3:  
+4: Solidworks FEA Simulation Files  
+5:  
+6: Weldments  
+7: Piping, tubing, wiring, related  
+8:  
+9: Top-level assemblies. Typically no more than one (plus configurations) per project.  
+
+Please update this list as the scale of the project evolves.  
 
 Part numbers should be defined beginning at 01. Number parts as they are created regardless of complexity, dependency, etc. Ensure that each part number for a given file type is only used once per subassembly. If you have more than 99 parts in a subassembly, you are doing something wrong!
 
