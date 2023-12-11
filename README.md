@@ -5,21 +5,23 @@
 This repo contains all the CAD for the CMU Robotics Club Quadrupeds Project. All CAD files, whether for the robot itself, a prototype, test structures, unused designs, or anything else should live within this repo. The CAD software of choice is SOLIDWORKS; non-SOLIDWORKS files should ideally be converted when possible or clearly marked with their respective software if conversion is problematic. The overall structure follows National Robotics Engineering Center EPDM standards as detailed below.
 
 ## 2: File Locations
-The top level of CAD should only contain file folders. Folders are created for submodules (legs, drivetrain, chassis, etc.) and for component types. COTS (Commercial Off-The-Shelf) components should be identified in a COTS folder; if generic enough to have application in multiple submodules, they should live in top-level COTS. The top-level COTS includes subdirectories for component types (fasteners, bearings, etc.) If a subdirectory appropriate for a part does not exist, create one. Note that these subdirectories should have more within them (for example, a FASTNERS subdir should contain BOLTS, NUTS and NUTS should contain NYLOC, PEM, JAM) If the COTS component is highly specific, should exist in lower level COTS folder in submodule directory. Files should generally be separated by file classifiers (see below). Top-level submodule directories may only contain 900-level files and 200-level files should be organized into descriptive subdirectories. All other file levels should be organized into subdirectories within the submodule directory (e.g. a simulation for a drive train motor shaft should be within a SIMULATION folder placed in the same directory as the top-level assembly for the drive train submodule). 
+The top level of CAD should only contain file folders. Folders are created for submodules (legs, drivetrain, chassis, etc.) and for component types. COTS (Commercial Off-The-Shelf) components should be identified in a COTS folder; if generic enough to have application in multiple submodules, they should live in top-level COTS. The top-level COTS includes subdirectories for component types (fasteners, bearings, etc.) If a subdirectory appropriate for a part does not exist, create one. Note that these subdirectories should have more within them (for example, a FASTNERS subdir should contain BOLTS, NUTS and NUTS should contain NYLOC, PEM, JAM) If the COTS component is highly specific, should exist in lower level COTS folder in submodule directory. Files should generally be separated by file classifiers (see below). Top-level submodule directories should only contain 900-level files and 200-level files which have no subassembly. 200-level files which are part of subassemblies should be organized into descriptive subdirectories. All other file levels should be organized into subdirectories within the submodule directory (e.g. a simulation for a drive train motor shaft should be within a SIMULATION folder placed in the same directory as the top-level assembly for the drive train submodule). 
 
 ## 3: File Naming
 ### 3.1: Custom
-Custom parts should obey the XXX-YZZ file number convention:
+Custom parts should obey the XXXX-YZZ - NAME file number convention:
 XXX: Module ID
 Y: File type classifier
 ZZ: Part number
+Name: Descriptive file name in Title Capitalization Form.
 
-The Module ID is a three-character code that describes the module the file belongs to. Should be as descriptive as three characters allow. The list of current module classifiers can be seen below:
-DOG: Top-level assembly
-CHA: Chassis
-DRV: Drive train
+The Module ID is an up-to-four-character code that describes the module the file belongs to. Should be as descriptive as four characters allow. The list of current module classifiers can be seen below:
+LAIK: Top-level assembly
+CHAS: Chassis
+DRIV: Drive train
 LEG: Leg design
-TST: Test rig
+MTST: Motor test rig
+LTST: Leg test rig
 Please maintain this list as the project scope evolves.
 
 The file type classifiers are as follows:
