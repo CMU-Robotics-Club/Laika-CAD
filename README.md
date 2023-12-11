@@ -35,7 +35,7 @@ The file type classifiers are as follows:
 6: Weldments  
 7: Piping, tubing, wiring, related  
 8:  
-9: Top-level assemblies. Typically no more than one (plus configurations) per project.  
+9: Top-level assemblies. Typically no more than one (plus configurations) per module.  
 
 Please update this list as the scale of the project evolves.  
 
