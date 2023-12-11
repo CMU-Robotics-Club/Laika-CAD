@@ -41,7 +41,10 @@ Please update this list as the scale of the project evolves.
 
 Part numbers should be defined beginning at 01. Number parts as they are created regardless of complexity, dependency, etc. Ensure that each part number for a given file type is only used once per subassembly. If you have more than 99 parts in a subassembly, you are doing something wrong!
 
-Example: the completed drive train assembly would be named DRIV-901 - Drive Train Assem and would exist in the top-level DRIVE TRAIN folder. The housing subassembly would be DRIV-801 - Drive Train Housing and would exist in the lower-level DRIVE TRAIN/HOUSING folder. The drawing for one of the housing components would be DRIV-105 - Drive Train Top Cover and would exist in the DRIVE TRAIN/DRAWINGS folder.
+Example:  
+The completed drive train assembly would be named DRIV-901 - Drive Train Assem and would exist in the top-level DRIVE TRAIN folder.  
+The housing subassembly would be DRIV-801 - Drive Train Housing and would exist in the lower-level DRIVE TRAIN/HOUSING folder.  
+The drawing for one of the housing components would be DRIV-105 - Drive Train Top Cover and would exist in the DRIVE TRAIN/DRAWINGS folder.
 
 ### 3.2: COTS
 COTS (Commercial Off-The-Shelf) parts should be named descriptively but do not need original part numbers. McMaster parts can be left as named when exporting as SLDPRT. Non-McMaster parts should be named descriptively, typically including part type, key dimensions, material as appropriate, etc. Additionally, should include manufacturer and part number. Use your best judgement! Someone with no project experience should be able to, from the file name, tell what the part is and where to order it.
