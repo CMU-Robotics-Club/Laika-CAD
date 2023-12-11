@@ -8,7 +8,7 @@ This repo contains all the CAD for the CMU Robotics Club Quadrupeds Project. All
 Top level of CAD should only contain file folders. Folders are created for submodules (legs, drivetrain, chassis, etc.) and for component types. COTS (Commercial Off-The-Shelf) components should be identified in a COTS folder; if generic enough to have application in multiple submodules, should live in top-level COTS. The top-level COTS includes subdirectories for component types (fasteners, bearings, etc.) If a subdirectory appropriate for a part does not exist, create one. Note that these subdirectories should have more within them (for example, a FASTNERS subdir should contain BOLTS, NUTS and NUTS should contain NYLOC, PEM, JAM) If the COTS component is highly specific, should exist in lower level COTS folder in submodule directory. Files should generally be seperated by file classifiers (see below). Top level submodule directories may only contain 900 level files, and 200 level files should be organized into descriptive subdirectories. All other file levels should be organized into subdirectories within the submodule directory (e.g. a simulation for a drive train motor shaft should be within a SIMULATION folder placed in the same directory as the top-level assembly for the drive train submodule). 
 
 ## 3: File Naming
-# 3.1: Custom
+### 3.1: Custom
 Custom parts should obey the XYY file number convention:
 X: File type classifier
 YY: Part number
@@ -26,9 +26,9 @@ The file type classifiers are as follows:
 Please update this list as scale of project evolves.
 Part numbers should be defined begininning at 01. Number parts as they are created regardless of complexity, dependency, etc. Ensure that each part number for a given file type is only used once per subassembly. If you have more than 99 parts in a subassembly, you are doing something wrong!
 
-# 3.2: COTS
+### 3.2: COTS
 COTS (Commerical Off-The-Shelf) parts should be named descriptively but do not need original part numbers. McMaster parts can be left as named when exporting as SLDPRT. Non-McMaster parts should be named descriptively, typically including part type, key dimensions, material as appropriate, etc. Additionally, should include manufacturer and part number. Use your best judgement! Someone with no project experience should be able to, from the file name, tell what the part is and where to order it.
 
-# 3.3: Directories
+### 3.3: Directories
 
 Directories should be named in ALL CAPS. They should be named to describe the subassembly, component type, etc. 
