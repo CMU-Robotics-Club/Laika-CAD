@@ -19,6 +19,7 @@ DOG: Top-level assembly
 CHA: Chassis
 DRV: Drive train
 LEG: Leg design
+TST: Test rig
 Please maintain this list as the project scope evolves.
 
 The file type classifiers are as follows:
