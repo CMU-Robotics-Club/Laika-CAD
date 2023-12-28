@@ -1,5 +1,7 @@
 14:1 Reduction
+
 1mm eccentricity
+
 3mm pin diameter
 
 Minimize bearing amount, try to use ball bearings and static friction components.
