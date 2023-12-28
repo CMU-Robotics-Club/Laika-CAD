@@ -1,4 +1,4 @@
-Need 1:10 reduction
+Need 14:1 reduction
 
 Minimize bearing amount, try to use ball bearings and static friction components.
 
