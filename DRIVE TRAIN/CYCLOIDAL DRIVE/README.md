@@ -6,6 +6,8 @@ Eccentricity: 1mm
 
 Pin Diameter: 3mm
 
+75mm
+
 
 
 # List of COTS used
