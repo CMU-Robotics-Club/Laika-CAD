@@ -22,6 +22,7 @@ Pin Diameter: 3mm
 ## Fasteners
 M3x14 Socket Head - 5x
 - Used to fasten the load pins to rotating plate
+
 M3 nuts - 10x
 - Used to fasten the load pins to roatating plate
 - Used to give threaded attachment points to the rotating plate
