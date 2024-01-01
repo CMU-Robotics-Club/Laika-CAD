@@ -4,7 +4,7 @@ Reduction: 14:1
 
 Eccentricity: 1mm
 
-Pin Diameter: 3mm
+Pin Diameter: 6mm
 
 75mm
 
