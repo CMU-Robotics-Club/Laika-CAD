@@ -6,7 +6,7 @@ Eccentricity: 1mm
 
 Pin Diameter: 6mm
 
-75mm
+Pin Circle Diameter: 75mm
 
 # List of COTS used
 ## Bearings
