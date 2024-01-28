@@ -22,7 +22,7 @@ Pin Circle Diameter: 75mm
 -  Can be substituted with thrust bearing with 78mm OD, 55mm ID, and 3mm Thickness
 -  [Amazon Link](https://www.amazon.com/uxcell-AXK5578-Bearings-Diameter-Thickness/dp/B07GC7VWMM/ref=pd_ybh_a_sccl_16/139-5555057-8218607?pd_rd_w=pbjRp&content-id=amzn1.sym.67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_p=67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_r=GSECETJXQZNBSY2999Z8&pd_rd_wg=rzvdu&pd_rd_r=afa8d6f2-3885-418f-8772-712bc8637551&pd_rd_i=B07GC7VWMM&th=1)
 
-## Fasteners
+## Fasteners - this is currently misinformation
 M3x14 Socket Head - 5x
 - Used to fasten the load pins to rotating plate
 
