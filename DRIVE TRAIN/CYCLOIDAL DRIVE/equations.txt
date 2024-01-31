@@ -2,7 +2,7 @@
 "pin_cirlce_diameter"= 75mm
 "pin_diam"= 6mm
 "gear_thickness"= 4mm
-"ball_bearing_diam"= 2.96mm
+"ball_bearing_diam"= 3.214mm
 "bearing_21_outer_clearance"= 0.127mm'change this
 "bearing_15_OD"= 15mm
 "bearing_15_outer_clearance"= 0mm'change this
