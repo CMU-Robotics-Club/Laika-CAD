@@ -10,9 +10,7 @@ Pin Circle Diameter: 75mm
 
 # List of COTS used
 ## Bearings
-4668K254_Permanently Lubricated Stainless Steel Ball Bearing - 2x
-- Can be substited with bearing that has 21mm OD, 15mm ID, and 4mm thickness
-- [Amazon Link](https://www.amazon.com/uxcell-6702-2RS-Groove-Bearings-Double/dp/B082PS2R61/ref=sr_1_3?crid=39OUROXB5XYRO&keywords=6702%2Bbearing&qid=1702320641&sprefix=6702%2Bbea%2Caps%2C137&sr=8-3&th=1)
+Flanged Ultra-Thin Ball Bearing with Steel Ring, Shielded, for 15 mm Shaft Diameter, 4 mm Wide - 2x
 
 4668K252_Permanently Lubricated Stainless Steel Ball Bearing - 2x
 - Can be substituted with bearing that has 15m OD, 10mm ID, and 4mm thickness
