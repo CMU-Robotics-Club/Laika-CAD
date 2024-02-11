@@ -1,6 +1,38 @@
-﻿"largeBearOD"= 21mm"largeBearID" = 15mm"largeBearOTight"= 0.127mm'calibrate - hold onto gears"largeBearITight"= 0mm'calibrate - hold onto eccentric nut"largeBearFlangeDiam" = 22.5mm"largeBearFlangeWidth" = 0.8mm"smallBearOD"= 15mm"smallBearOTight"= 0mm'calibrate - hold onto bottom of gearbox"smallBearOLoose"= 0mm'calibrate - able to take off topHat"smallBearID" = 0mm"smallBearITight" = 0mm'hold onto 
-"pinCircleDiam"= 75mm
-"pinDiam"= 6mm
-"sheetThickness"= 0.1875in
-"ballBearDiam"= 3.214mm
-"thrustBearingThickness"= 5mm'measure this irl and change"thrustBearingID"= 0mm'measure this irl and change"thrustBearingOD"= 0mm'measure this irl and change"eccentricity" = 1mm
+﻿"largeBearOD"= 21mm
+
+"largeBearID" = 15mm
+
+"largeBearOTight"= 0.127mm'calibrate - hold onto gears
+
+"largeBearITight"= 0mm'calibrate - hold onto eccentric nut
+
+"largeBearFlangeDiam" = 22.5mm
+
+"largeBearFlangeWidth" = 0.8mm
+
+"smallBearOD"= 15mm
+
+"smallBearOTight"= 0mm'calibrate - hold onto bottom of gearbox
+
+"smallBearOLoose"= 0mm'calibrate - able to take off topHat
+
+"smallBearID" = 10mm
+
+"smallBearITight" = 0mm'hold onto 
+
+"pinCircleDiam"= 75mm
+
+"pinDiam"= 6mm
+
+"sheetThickness"= 0.1875in
+
+"ballBearDiam"= 3.214mm
+
+"thrustBearingThickness"= 5mm'measure this irl and change
+
+"thrustBearingID"= 0mm'measure this irl and change
+
+"thrustBearingOD"= 0mm'measure this irl and change
+
+"eccentricity" = 1mm
+
