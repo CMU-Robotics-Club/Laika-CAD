@@ -2,7 +2,7 @@
 
 "largeBearID" = 15mm
 
-"largeBearOTight"= 0.127mm'calibrate - hold onto gears
+"largeBearOTight"= 0.34375mm'calibrate - hold onto gears
 
 "largeBearITight"= 0mm'calibrate - hold onto eccentric nut
 
