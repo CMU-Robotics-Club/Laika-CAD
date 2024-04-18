@@ -26,7 +26,7 @@
 
 "sheetThickness"= 0.1875in
 
-"ballBearDiam"= 3.214mm
+"ballBearDiam"= 3.5mm
 
 "thrustBearingThickness"= 5mm'measure this irl and change
 
