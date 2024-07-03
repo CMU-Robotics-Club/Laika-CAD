@@ -20,6 +20,7 @@ LAIK: Top-level assembly
 CHAS: Chassis  
 DRIV: Drive train
 - CYC: Cycloidal gearbox
+
 LEG: Leg design  
 MTST: Motor test rig  
 LTST: Leg test rig  
