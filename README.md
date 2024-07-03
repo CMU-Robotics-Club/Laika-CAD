@@ -19,7 +19,7 @@ The Module ID is an up-to-four-character code that describes the module the file
 LAIK: Top-level assembly  
 CHAS: Chassis  
 DRIV: Drive train
- CYC: Cycloidal gearbox
+- CYC: Cycloidal gearbox
 LEG: Leg design  
 MTST: Motor test rig  
 LTST: Leg test rig  
