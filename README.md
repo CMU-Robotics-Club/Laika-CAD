@@ -18,7 +18,8 @@ Name: Descriptive file name in Title Capitalization Form
 The Module ID is an up-to-four-character code that describes the module the file belongs to. Should be as descriptive as four characters allow. The list of current module classifiers can be seen below:  
 LAIK: Top-level assembly  
 CHAS: Chassis  
-DRIV: Drive train  
+DRIV: Drive train
+ CYC: Cycloidal gearbox
 LEG: Leg design  
 MTST: Motor test rig  
 LTST: Leg test rig  
