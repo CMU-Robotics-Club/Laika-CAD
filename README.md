@@ -19,6 +19,7 @@ The Module ID is an up-to-four-character code that describes the module the file
 LAIK: Top-level assembly  
 CHAS: Chassis  
 DRIV: Drive train  
+CYC: Cycloidal gearbox  
 LEG: Leg design  
 MTST: Motor test rig  
 LTST: Leg test rig  
@@ -29,7 +30,7 @@ The file type classifiers are as follows:
 0: Manufacturing file formats (STL, DXF, GCODE, etc.)  
 1: Drawings  
 2: Individual parts  
-3:  
+3: Equation .txt files  
 4: Solidworks FEA Simulation Files  
 5:  
 6: Weldments  
