@@ -1,0 +1,2 @@
+"carbon_fiber_tube_diam"= 1in
+"clip_tube_diam"= 6mm
