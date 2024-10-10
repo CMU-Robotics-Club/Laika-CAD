@@ -10,10 +10,10 @@ The top level of CAD should only contain file folders and the top-level full ass
 ## 3: File Naming
 ### 3.1: Custom
 Custom parts should obey the XXXX YZZ - NAME file number convention:  
-XXX: Module ID (Alphabetical)
-Y: File type classifier (Numbers)
-ZZ: Part number (Numbers)
-NAME: Descriptive file name in Title Capitalization Form  
+XXX: Module ID (Alphabetical)   
+Y: File type classifier (Numbers)   
+ZZ: Part number (Numbers)   
+NAME: Descriptive file name in Title Capitalization Form     
 
 Example:
 CYC 208 - Gearbox Mount Plate
