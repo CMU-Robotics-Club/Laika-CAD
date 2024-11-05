@@ -2,3 +2,5 @@
 "clip_tube_diam"= 6mm
 "middle_tube_len"= 500mm
 "horizontal_pipe_spacing"= 250mm
+"battery_height"= 3.937in
+"battery_width"= 6.693in
