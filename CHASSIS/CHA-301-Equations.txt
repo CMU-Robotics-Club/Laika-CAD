@@ -1,6 +1,10 @@
-"carbon_fiber_tube_diam"= 1in
-"clip_tube_diam"= 6mm
+﻿"carbon_fiber_tube_diam"= 1in
+"clip_tube_diam"= 5mm
+"cosmetic_tube_diam"= 3mm
 "middle_tube_len"= 500mm
 "horizontal_pipe_spacing"= 250mm
+"vertical_pipe_spacing"= 225mm
 "battery_height"= 3.937in
 "battery_width"= 6.693in
+"carbon_clip_tubes_center_distance"= 17.7mm
+"carbon_clip_tubes_center_angle"= 135
