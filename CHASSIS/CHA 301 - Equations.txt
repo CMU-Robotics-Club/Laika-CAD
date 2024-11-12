@@ -1,0 +1,5 @@
+﻿"cf_tube_outer_diameter" = 25.4mm
+"mid_plate_mid_to_top" = 100mm
+"mid_plate_mid_to_bottom" = 125mm
+"mid_plate_horizontal_spacing" = 250mm
+"mid_tube_length" = 500mm
