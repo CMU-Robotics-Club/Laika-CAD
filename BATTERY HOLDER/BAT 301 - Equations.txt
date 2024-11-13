@@ -1,0 +1,8 @@
+﻿"battery_rib_minimum_thickness" = 12mm
+"battery_to_cf_height"= 5cm
+"D1@Sketch1"="battery_to_cf_height"
+"battery_height" = 60mm
+"D2@Sketch1"="battery_height"
+"battery_width"= 110mm
+"tube_piece_tolerance" = 0.2mm
+"clamp_gap" = 0.5mm
