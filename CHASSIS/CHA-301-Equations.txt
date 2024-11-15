@@ -1,4 +1,4 @@
-"carbon_fiber_tube_diam"= 1in
+"carbon_fiber_tube_diam"= 1in, 25.4mm
 "clip_tube_diam"= 6mm
 "middle_tube_len"= 500mm
 "horizontal_pipe_spacing"= 250mm
