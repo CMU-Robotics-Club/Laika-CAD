@@ -1,0 +1,16 @@
+[StartTime]
+LEG 209 - CF Forearm Tube-Static 1.MFC=1s
+[SolverState]
+LEG 209 - CF Forearm Tube-Static 1.MFC=2
+[MainFrame]
+LEG 209 - CF Forearm Tube-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPBKCAAAAAMKBAAAAAJAEAAAAAPHCAAAAA
+[ShowMin]
+LEG 209 - CF Forearm Tube-Static 1.MFC=No
+[SolverType]
+LEG 209 - CF Forearm Tube-Static 1.MFC=Linear Analysis
+[StudyType]
+LEG 209 - CF Forearm Tube-Static 1.MFC=0
+[StudyName]
+LEG 209 - CF Forearm Tube-Static 1.MFC=Static 1
+[Solver]
+LEG 209 - CF Forearm Tube-Static 1.MFC=Sparse
