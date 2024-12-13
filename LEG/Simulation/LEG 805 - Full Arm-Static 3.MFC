@@ -1,0 +1,16 @@
+[StartTime]
+LEG 805 - Full Arm-Static 3.MFC=6s
+[SolverState]
+LEG 805 - Full Arm-Static 3.MFC=2
+[MainFrame]
+LEG 805 - Full Arm-Static 3.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPBKCAAAAAMKBAAAAAJAEAAAAAPHCAAAAA
+[ShowMin]
+LEG 805 - Full Arm-Static 3.MFC=No
+[SolverType]
+LEG 805 - Full Arm-Static 3.MFC=Linear Analysis
+[StudyType]
+LEG 805 - Full Arm-Static 3.MFC=0
+[StudyName]
+LEG 805 - Full Arm-Static 3.MFC=Static 3
+[Solver]
+LEG 805 - Full Arm-Static 3.MFC=Iterative
