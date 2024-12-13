@@ -5,3 +5,5 @@
 "mid_plate_horizontal_spacing" = 250mm
 "cf_plate_thickness" = 4mm
 "mid_tube_length" = 500mm
+"mid_plate_bottom_width"= 150mm
+"mid_support_plate_distance" = 250mm
