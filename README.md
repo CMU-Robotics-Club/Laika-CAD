@@ -9,11 +9,14 @@ The top level of CAD should only contain file folders and the top-level full ass
 
 ## 3: File Naming
 ### 3.1: Custom
-Custom parts should obey the XXXX-YZZ - NAME file number convention:  
-XXX: Module ID  
-Y: File type classifier  
-ZZ: Part number  
-Name: Descriptive file name in Title Capitalization Form  
+Custom parts should obey the XXXX YZZ - NAME file number convention:  
+XXX: Module ID (Alphabetical)   
+Y: File type classifier (Numbers)   
+ZZ: Part number (Numbers)   
+NAME: Descriptive file name in Title Capitalization Form     
+
+Example:
+CYC 208 - Gearbox Mount Plate
 
 The Module ID is an up-to-four-character code that describes the module the file belongs to. Should be as descriptive as four characters allow. The list of current module classifiers can be seen below:  
 LAIK: Top-level assembly  
@@ -32,7 +35,7 @@ The file type classifiers are as follows:
 2: Individual parts  
 3: Equation .txt files  
 4: Solidworks FEA Simulation Files  
-5:  
+5: Jigs/tools related to the assembly/manufacture of another part  
 6: Weldments  
 7: Piping, tubing, wiring, related  
 8: Subassemblies  
