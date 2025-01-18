@@ -36,3 +36,5 @@
 
 "eccentricity" = 1mm
 
+"sheetSpacing" = 1.2533mm
+
