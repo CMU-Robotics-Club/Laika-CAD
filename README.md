@@ -35,7 +35,7 @@ The file type classifiers are as follows:
 2: Individual parts  
 3: Equation .txt files  
 4: Solidworks FEA Simulation Files  
-5: Whatever weird stuff idfk
+5: Jigs/tools related to the assembly/manufacture of another part  
 6: Weldments  
 7: Piping, tubing, wiring, related  
 8: Subassemblies  
