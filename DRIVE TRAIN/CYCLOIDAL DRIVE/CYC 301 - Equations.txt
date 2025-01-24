@@ -10,9 +10,9 @@
 
 "largeBearFlangeWidth" = 0.8mm
 
-"smallBearOD"= 14.8mm
+"smallBearOD"= 15mm
 
-"smallBearOTight"= 0mm'calibrate - hold onto bottom of gearbox
+"smallBearOTight"= 0.25mm'calibrate - hold onto bottom of gearbox
 
 "smallBearOLoose"= 0mm'calibrate - able to take off topHat
 
