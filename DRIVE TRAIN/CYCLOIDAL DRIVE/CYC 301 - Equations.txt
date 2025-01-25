@@ -12,7 +12,7 @@
 
 "smallBearOD"= 15mm
 
-"smallBearOTight"= 0.25mm'calibrate - hold onto bottom of gearbox
+"smallBearOTight"= 0.2mm'calibrate - hold onto bottom of gearbox
 
 "smallBearOLoose"= 0mm'calibrate - able to take off topHat
 
