@@ -10,7 +10,7 @@
 
 "largeBearFlangeWidth" = 0.8mm
 
-"smallBearOD"= 15mm
+"smallBearOD"= 14.8mm
 
 "smallBearOTight"= 0mm'calibrate - hold onto bottom of gearbox
 
