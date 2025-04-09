@@ -4,3 +4,7 @@
 "mid_plate_mid_to_bottom" = 125mm
 "mid_plate_horizontal_spacing" = 250mm
 "mid_tube_length" = 500mm
+
+"motor_cutaway_diameter" = 60mm
+"motor_support_diameter" = 40mm
+"mid_plate_motor_cutaway_horizontal_spacing" = 160mm
