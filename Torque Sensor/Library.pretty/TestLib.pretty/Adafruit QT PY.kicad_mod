@@ -1,0 +1,174 @@
+(footprint "Adafruit QT PY"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Through hole straight pin header, 2x07, 2.54mm pitch, double rows")
+	(tags "Through hole pin header THT 2x07 2.54mm double row")
+	(property "Reference" "REF**"
+		(at 1.27 -2.38 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "61e14146-4fc8-427e-b064-7e680497bf03")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Adafruit QT PY"
+		(at 7.62 20.32 0)
+		(layer "F.Fab")
+		(uuid "d7b8d8cd-e0da-48d9-8e17-7820dcf7c11d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f92c77c9-eff9-473c-9698-9c33bd5604a8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a3d2ad56-bdc7-4c79-9041-685a1b93b1eb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -1.38 -3.13)
+		(end 16.62 18.37)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6c9ee16d-3494-4212-afc9-005dd224650a")
+	)
+	(fp_rect
+		(start 3.12 -4.25)
+		(end 12.12 3.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "27a2fce0-947c-4320-8992-07206fc88ac1")
+	)
+	(pad "1" smd rect
+		(at -0.82 0)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "B.SilkS" "F.Paste")
+		(uuid "f6e36bf8-c631-4331-9aaa-b1fb1268cfa2")
+	)
+	(pad "2" smd rect
+		(at 16.06 0)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "89e906e3-34ec-4d69-b2cf-22450567e979")
+	)
+	(pad "3" smd rect
+		(at -0.82 2.54)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2b2d7a30-7f43-466d-81ab-6f2f81e736eb")
+	)
+	(pad "4" smd rect
+		(at 16.06 2.54)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9a96d992-ab2d-4d6f-9466-66785573e305")
+	)
+	(pad "5" smd rect
+		(at -0.82 5.08)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c2329d01-1357-44e1-8ae5-b8309f4ceab2")
+	)
+	(pad "6" smd rect
+		(at 16.06 5.08)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "13978b6c-4bcb-43e8-8f5f-756fce6a713d")
+	)
+	(pad "7" smd rect
+		(at -0.82 7.62)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e5db91f6-1e4f-4599-90ac-e2a2359e89bf")
+	)
+	(pad "8" smd rect
+		(at 16.06 7.62)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "20be5620-c27c-4be8-a236-905798470915")
+	)
+	(pad "9" smd rect
+		(at -0.82 10.16)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6d90cb32-f038-4669-83a0-2d1cfdba49f5")
+	)
+	(pad "10" smd rect
+		(at 16.06 10.16)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5d3f3622-9d6d-406b-8b9d-e312126aedec")
+	)
+	(pad "11" smd rect
+		(at -0.82 12.7)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "23ea791c-bae4-45aa-baeb-a0d9e74ab891")
+	)
+	(pad "12" smd rect
+		(at 16.06 12.7)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a19941f7-32fa-40a9-8539-9f6e005bb256")
+	)
+	(pad "13" smd rect
+		(at -0.82 15.24)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cdcb0a0a-ae58-433d-bf43-de1758c0c137")
+	)
+	(pad "14" smd rect
+		(at 16.06 15.24)
+		(size 3.44 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d3726a27-1a16-469b-af14-37daeb3c064b")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x07_P2.54mm_Vertical.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
