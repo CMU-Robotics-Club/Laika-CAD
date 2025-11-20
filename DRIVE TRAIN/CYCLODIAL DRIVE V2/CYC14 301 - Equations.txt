@@ -1,5 +1,5 @@
 ﻿"Ratio"= 15
-"Hull Diameter"= 3.5in
+"Hull Diameter"= 92
 "Fixed Ring Diameter"= 76
 "Fixed Pin Diameter"= 6
 "Output Ring Diameter"= 40
